@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/11/78/cf/1178cf5dd4a6ccd59318305541030945.jpg)
+![logo](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/deliveries/614353/original/web-banner-design-header_ws_1369117576/create-three-gif-animation-banner-with-in-24-hour.gif)
 
 # 💫 About Me:
 A passionate frontend developer from India.
