@@ -1,4 +1,4 @@
-![logo](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
+![logo](https://i.pinimg.com/originals/11/78/cf/1178cf5dd4a6ccd59318305541030945.jpg)
 
 # 💫 About Me:
 A passionate frontend developer from India.
